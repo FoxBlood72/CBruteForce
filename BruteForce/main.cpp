@@ -34,7 +34,7 @@ void Algorithm()
         combination[x-1]++;
         convert(combination[x-1],combination,x-1);
 
-        // PENTRU A DEMONSTRA CA ALGORITMUL FUNCTIONEAZA STERGETI COMENTARIUL LINIEI DE JOS
+       
         if(r == 'y')
         printf("%s \n",combination);
 

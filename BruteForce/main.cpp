@@ -55,7 +55,7 @@ int main()
 {
 
     printf("************************************************* \n");
-    printf("Proiect - \n");
+    printf("Proiect - RedFox \n");
     printf("Creator - FoxBlood \n");
     printf("Descriere: Simplu algoritm de generare a tuturor posibilitatilor de x litere mari, mici + cifre. \n");
     printf("************************************************* \n");

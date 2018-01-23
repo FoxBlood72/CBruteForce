@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516732781 source:/home/foxblood/Documents/C++/BruteForce/main.cpp
+	<stdio.h>
+	<string.h>
+

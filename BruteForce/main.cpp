@@ -54,17 +54,36 @@ void Algorithm()
 int main()
 {
 
+    printf("RO \n");
     printf("************************************************* \n");
     printf("Proiect - RedFox \n");
     printf("Creator - FoxBlood \n");
     printf("Descriere: Simplu algoritm de generare a tuturor posibilitatilor de x litere mari, mici + cifre. \n");
     printf("************************************************* \n");
 
+    printf("EN \n");
+    printf("************************************************* \n");
+    printf("Project - RedFox \n");
+    printf("Creator - FoxBlood \n");
+    printf("Description: Simple algorithm who generate all posible combination with x letter lower and upper case + number. \n");
+    printf("************************************************* \n");
+    
+    
+    printf("RO \n");
     printf("Doriti afisarea combinatiilor? (afisarea incetineste algoritmul cu foarte mult timp )\n");
     printf("(y/n) \n");
+    
+    printf("EN \n");
+    printf("Do you want to display all posible combination? \n");
+    printf("(y/n) \n");
+    
+    
     scanf("%c",&r);
+    printf("RO \n");
     printf("De cate caractere sa fie combinatiile? \n");
-
+    
+    printf("EN \n");
+    printf("How many character? Example: if you want all combination between aaa and 999 type 3 \n");
 
     scanf("%d",&x);
 
